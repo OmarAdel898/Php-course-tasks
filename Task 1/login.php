@@ -135,22 +135,6 @@
                 </div>
         </div>
         
-    
-    <!-- <h2>Registration Form</h2>
-    <form method="POST">
-        <input type="text" name="reg_username" placeholder="Username" required>
-        <input type="email" name="reg_email" placeholder="Email" required>
-        <input type="password" name="reg_password" placeholder="Password" required>
-        <button type="submit" name="register">Register</button>
-    </form>
-    
-    <h2>Change Password</h2>
-    <form method="POST">
-        <input type="password" name="current_password" placeholder="Current Password" required>
-        <input type="password" name="new_password" placeholder="New Password" required>
-        <input type="password" name="confirm_password" placeholder="Confirm New Password" required>
-        <button type="submit" name="change_password">Change Password</button>
-    </form> -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>
